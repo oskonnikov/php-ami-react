@@ -1,5 +1,5 @@
 {
-    "name": "oskonnikov/ami-react",
+    "name": "anders/ami-react",
     "description": "Async, event-driven access to the Asterisk Manager Interface (AMI)",
     "keywords": ["Asterisk Manager Interface", "AMI", "async", "react"],
     "homepage": "https://github.com/oskonnikov/php-ami-react",
