@@ -1,6 +1,7 @@
-# clue/ami-react [![Build Status](https://travis-ci.org/clue/php-ami-react.svg?branch=master)](https://travis-ci.org/clue/php-ami-react)
+# oskonnikov/ami-react [![Build Status](https://travis-ci.org/clue/php-ami-react.svg?branch=master)](https://travis-ci.org/clue/php-ami-react)
 
 Simple async, event-driven access to the Asterisk Manager Interface (AMI)
+FORKED from Clue
 
 The [Asterisk PBX](http://asterisk.org/) is a popular open source telephony solution
 that offers a wide range of telephony features.
