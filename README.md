@@ -1,4 +1,4 @@
-# oskonnikov/ami-react [![Build Status](https://travis-ci.org/oskonnikov/php-ami-react.svg?branch=master)](https://travis-ci.org/oskonnikov/php-ami-react)
+# anders/ami-react [![Build Status](https://travis-ci.org/oskonnikov/php-ami-react.svg?branch=master)](https://travis-ci.org/oskonnikov/php-ami-react)
 
 Simple async, event-driven access to the Asterisk Manager Interface (AMI)
 Custom version
